@@ -7,3 +7,5 @@
 **Hobby:** Guitar
 
 **Color:** Black
+
+**Computer:** Mac
