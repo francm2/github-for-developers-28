@@ -5,3 +5,5 @@
 **Food:** Sushi
 
 **Hobby:** Guitar
+
+**Color:** Black
